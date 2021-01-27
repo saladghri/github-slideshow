@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Sahar Aldaghri IT student"
 Use the left arrow to go back!
